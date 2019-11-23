@@ -5,3 +5,5 @@ applications:
   memory: 64M
   disk_quota: 256M
   instances: 1
+  routes:
+  - route: piperhw.cfapps.io

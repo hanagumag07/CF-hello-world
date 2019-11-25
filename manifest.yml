@@ -2,6 +2,4 @@
 # you only type "cf push"
 applications:
 - name: piperhw
-  memory: 64M
-  routes:
-  - route: 
+  memory: 128M

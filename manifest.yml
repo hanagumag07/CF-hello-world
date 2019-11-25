@@ -1,5 +1,5 @@
 # With this file present in the directory
 # you only type "cf push"
 applications:
-- name: piperhw
+- name: piperhw1
   memory: 128M

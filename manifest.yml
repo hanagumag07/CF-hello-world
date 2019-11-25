@@ -4,4 +4,4 @@ applications:
 - name: piperhw
   memory: 64M
   routes:
-  - route: api.run.pivotal.io
+  - route: 

@@ -1,7 +1,7 @@
 # With this file present in the directory
 # you only type "cf push"
 applications:
-- name: piperhw123
+- name: piperhw1234
   memory: 64M
   disk_quota: 256M
   instances: 1

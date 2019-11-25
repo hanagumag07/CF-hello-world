@@ -3,3 +3,4 @@
 applications:
 - name: piperhw11
   memory: 128M
+  credentialsId: 'CF_USER'
